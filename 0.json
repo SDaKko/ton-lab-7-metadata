@@ -1,0 +1,15 @@
+﻿{
+  "name": "TON Lab NFT #0",
+  "description": "First NFT created as part of TON blockchain laboratory work.",
+  "image": "",
+  "attributes": [
+    {
+      "trait_type": "Laboratory",
+      "value": "TON Lab 7"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": "0"
+    }
+  ]
+}
